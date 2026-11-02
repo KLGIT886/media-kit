@@ -36,8 +36,8 @@
       "library": "libmpv-2.dll"
     },
     "windows_x64": {
-      "url": "https://github.com/Predidit/libmpv-win32-video-cmake/releases/download/202609151348/mpv-dev-x86_64-20260915-git-0b7ed67.7z",
-      "sha256": "8adceab30b6bcc5503fa9d3823b68f4acd15ee1c41d6dc2492826f373531c10a",
+      "url": "https://github.com/KLGIT886/libmpv-win32-video-cmake/releases/download/202611021315/mpv-dev-x86_64-v3-20261102-git-0b7ed67.7z",
+      "sha256": "1fe7e659739ce282d53bb30cc446a1e398e343f126ae0cbe503b9d4ad30bd7f6",
       "format": "7z",
       "library": "libmpv-2.dll"
     },
